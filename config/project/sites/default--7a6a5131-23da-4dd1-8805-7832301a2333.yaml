@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: 'Plain Bagel'
+primary: true
+siteGroup: 8b2f77c9-0a84-4c6d-b0bc-485de5b64168
+sortOrder: 1

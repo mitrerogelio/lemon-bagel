@@ -1,0 +1,22 @@
+dateModified: 1652748968
+email:
+  fromEmail: rogelinmitre@gmail.com
+  fromName: 'Plain Bagel'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    7a6a5131-23da-4dd1-8805-7832301a2333: 'Plain Bagel'
+    8b2f77c9-0a84-4c6d-b0bc-485de5b64168: 'Plain Bagel'
+    fe001b34-792f-4ea2-ad26-590122109977: Common
+system:
+  edition: solo
+  live: true
+  name: 'Plain Bagel'
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
